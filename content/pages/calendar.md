@@ -4,35 +4,417 @@ title: Calendar
 uid: d75019a8-211c-d368-7d69-96cbf92aa9a8
 ---
 
-| SES # | TOPICS | DUE DATES |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**Laying the Theoretical Foundations**{{< /td-colspan >}} |||
-| 1 | Introduction, Syllabus | &nbsp; |
-| 2 | Realism | &nbsp; |
-| 3 | Liberalism | &nbsp; |
-| 4 |  {{< br >}}{{< br >}} Marxism {{< br >}}{{< br >}} _Map quiz_ {{< br >}}{{< br >}}  | &nbsp; |
-| 5 | Global Political Economy | &nbsp; |
-| 6 | Constructivism | &nbsp; |
-| 7 |  {{< br >}}{{< br >}} Poststructuralism {{< br >}}{{< br >}} Post-colonialism {{< br >}}{{< br >}}  | Short policy memo #1 due |
-| {{< td-colspan 3 >}}**Re-examining IR Theory and History**{{< /td-colspan >}} |||
-| 8 | Challenging IR Theory | &nbsp; |
-| 9 | Theoretical Toolkit I & II | &nbsp; |
-| 10 | Pre-international Systems | &nbsp; |
-| 11 | Ancient and Classical Systems I & II | &nbsp; |
-| 12 | Ancient and Classical Systems III | &nbsp; |
-| 13 | Modern System I & II | Short policy memo #2 due |
-| 14 | Modern System III | &nbsp; |
-| 15 | Midterm exam | &nbsp; |
-| {{< td-colspan 3 >}}**Actors, Institutions, and Issues in International Relations**{{< /td-colspan >}} |||
-| 16 | Postmodern System / World History and IR | &nbsp; |
-| 17 | Environmental Issues | &nbsp; |
-| 18 |  {{< br >}}{{< br >}} United Nations {{< br >}}{{< br >}} International Law {{< br >}}{{< br >}}  | Short policy memo #3 due |
-| 19 |  {{< br >}}{{< br >}} International Organizations {{< br >}}{{< br >}} NGOs in World Politics {{< br >}}{{< br >}}  | &nbsp; |
-| 20 |  {{< br >}}{{< br >}} War {{< br >}}{{< br >}} International and Global Security {{< br >}}{{< br >}}  | Final policy memo draft due |
-| 21 |  {{< br >}}{{< br >}} Human Security {{< br >}}{{< br >}} Terrorism and Globalization {{< br >}}{{< br >}}  | &nbsp; |
-| 22 | WMD Proliferation | Final policy memo peer review due |
-| 23 |  {{< br >}}{{< br >}} Human Rights {{< br >}}{{< br >}} Poverty, Development, and Hunger {{< br >}}{{< br >}}  | &nbsp; |
-| 24 | Global Trade and Finance | Final policy memo due |
-| 25 |  {{< br >}}{{< br >}} Race {{< br >}}{{< br >}} Gender {{< br >}}{{< br >}}  | &nbsp; |
-| 26 |  {{< br >}}{{< br >}} Nationalism {{< br >}}{{< br >}} Culture in World Affairs {{< br >}}{{< br >}}  | &nbsp; |
-| 27 | Final exam |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+DUE DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Laying the Theoretical Foundations**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction, Syllabus
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Realism
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Liberalism
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Marxism
+
+_Map quiz_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Global Political Economy
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Constructivism
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Poststructuralism
+
+Post-colonialism
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Short policy memo #1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Re-examining IR Theory and History**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Challenging IR Theory
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Theoretical Toolkit I & II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Pre-international Systems
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Ancient and Classical Systems I & II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Ancient and Classical Systems III
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Modern System I & II
+{{< tdclose >}}
+{{< tdopen >}}
+Short policy memo #2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Modern System III
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm exam
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Actors, Institutions, and Issues in International Relations**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Postmodern System / World History and IR
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Environmental Issues
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+United Nations
+
+International Law
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Short policy memo #3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+International Organizations
+
+NGOs in World Politics
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+War
+
+International and Global Security
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Final policy memo draft due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Human Security
+
+Terrorism and Globalization
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+WMD Proliferation
+{{< tdclose >}}
+{{< tdopen >}}
+Final policy memo peer review due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Human Rights
+
+Poverty, Development, and Hunger
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Global Trade and Finance
+{{< tdclose >}}
+{{< tdopen >}}
+Final policy memo due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Race
+
+Gender
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Nationalism
+
+Culture in World Affairs
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Final exam
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

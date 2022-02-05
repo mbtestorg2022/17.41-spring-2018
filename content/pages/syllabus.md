@@ -55,14 +55,81 @@ For detailed information, see the [Readings]({{< baseurl >}}/pages/readings) sec
 
 _Course Grading_
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-|  {{< br >}}{{< br >}} Discussion section participation {{< br >}}{{< br >}} _The course has three excellent teaching assistants whose job is to help you better understand the material. Each week you will have an opportunity to bring your questions and insights to your discussion section in a dialogue with the TAs. As the enrollment is too large for participation to be feasible in lecture, you will be assessed on participation in discussion section. The TAs will be primarily interested in your engagement with the material, your fellow students, and the TAs._  {{< br >}}{{< br >}}  | 20% |
-| Map quiz | 5% |
-| Midterm exam | 15% |
-| Final exam (cumulative) | 25% |
-| Short policy memos (3 x 5% each) | 15% |
-| Final policy memo | 20% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Discussion section participation
+
+_The course has three excellent teaching assistants whose job is to help you better understand the material. Each week you will have an opportunity to bring your questions and insights to your discussion section in a dialogue with the TAs. As the enrollment is too large for participation to be feasible in lecture, you will be assessed on participation in discussion section. The TAs will be primarily interested in your engagement with the material, your fellow students, and the TAs._ 
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Map quiz
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Midterm exam
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final exam (cumulative)
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Short policy memos (3 x 5% each)
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final policy memo
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 For more detail on the activities above, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
 
